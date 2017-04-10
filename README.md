@@ -4,7 +4,7 @@ Repository for Jupyter Notebooks for use at the EGU shortcouse
 
 | time-slot | speaker | notebook link | topic |
 | ----------- | -------- | ---------- |  ------------ |
-| 08:30 - 08:35 | Olly | https://github.com/earthserver-eu/EGU_short_course/01-WCS_intro.ipynb  | intro to workshop |
+| 08:30 - 08:35 | Olly | https://github.com/earthserver-eu/EGU_short_course/blob/master/01-WCS_intro.ipynb  | intro to workshop |
 | 08:35 - 08:40 | Olly | | Intro to jupyter/ipython notebooks |
 | 08:40 - 08:50 | Julia | | Intro to WCS |
 | 08:50 - 09:00 | Olly | | Intro to WCPS |
