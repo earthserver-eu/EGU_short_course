@@ -10,5 +10,5 @@ Repository for Jupyter Notebooks for use at the EGU shortcouse
 | 08:50 - 09:00 | Olly | | Intro to WCPS |
 | 09:00 - 09:10 | Olly | | Intro to marine science geospatial challenges |
 | 09:10 - 09:20 | Julia | | Intro to climate science challenges |
-| 09:20 - 09:30 | Ramiro | | Intro to planetary science geospatial challenges |
+| 09:20 - 09:30 | Ramiro | https://github.com/earthserver-eu/EGU_short_course/blob/master/Data%20Services%20Short%20Course%20-%20Planetary%20Science%20Challenges.ipynb | Intro to planetary science geospatial challenges |
 | 09:30 - 10:00 | All | | Excercise/challenge |
